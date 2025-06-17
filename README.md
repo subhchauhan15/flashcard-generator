@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Flashcard Generator using LLM (Ollama + Phi-3 + Streamlit)
 
 This is a lightweight Flashcard Generator tool that uses the **Phi-3 Mini** language model locally (via [Ollama](https://ollama.com)) to convert educational content (text or PDFs) into concise **Q&A flashcards**. The interface is built using **Streamlit** for easy interaction and CSV export.
@@ -38,3 +39,7 @@ Then pull the Phi-3 model:
 ```bash
 ollama pull phi3:mini
 
+=======
+# flashcard-generator
+Flashcard Generator using Ollama and Streamlit
+>>>>>>> fe48bc66dc54bd0c2cda7beaefb8d5ec7029f020
